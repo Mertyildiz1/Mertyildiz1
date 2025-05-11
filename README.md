@@ -1,3 +1,5 @@
+  Hi! Welcome to my GitHub profile!
+
 - 👋 Hi, I’m Mert Yıldız! 
 - 👀 I’m interested in Java, Selenium, Automation Testing
 - 🌱 I’m currently learning TestNG and Cucumber
