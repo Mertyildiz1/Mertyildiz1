@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **1yildizmert@gmail.com**
 
-- ⚡ Fun fact **Coding**
+- ⚡ Fun fact **Coding** 💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
