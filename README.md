@@ -31,3 +31,5 @@ I am an ISTQB Certified Software Engineer with strong QA methodology, tools and 
 📫 How to reach me: **1yildizmert@gmail.com**
 
 ⚡ Fun fact: **I enjoy solving complex situations.**
+
+<img src="https://profile-counter.glitch.me/Mertyildiz1/count.svg?" alt="visitors count" />
