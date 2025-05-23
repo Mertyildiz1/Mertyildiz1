@@ -26,4 +26,8 @@ I am an ISTQB Certified Software Engineer with strong QA methodology, tools and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
 </p>
 
-![En Çok Kullandığım Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Mertyildiz1&layout=compact&theme=tokyonight)
+🔭 I’m currently working on: **Automation testing with Java, Selenium, TestNG, Cucumber, Postman, Rest Assured.**
+
+📫 How to reach me: **1yildizmert@gmail.com**
+
+⚡ Fun fact: **I enjoy solving complex situations.**
