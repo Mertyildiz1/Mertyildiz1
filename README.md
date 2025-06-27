@@ -1,5 +1,5 @@
 # Hello 👋, I'm Mert Yıldız
-### ISTQB® Certified Software Test Engineer
+### Software Test Engineer
 
 I am an ISTQB Certified Software Engineer with strong QA methodology, tools and automation skills. Experienced in testing with Java and Selenium and doing API testing using Postman and Proxyman. I have knowledge of SQL for data validation.
 
