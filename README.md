@@ -1,7 +1,13 @@
 # Hello 👋, I'm Mert Yıldız
-### Software Test Engineer
+🔍 I am an ISTQB-certified QA engineer with a solid foundation in software testing principles, test design techniques, and the QA lifecycle.
 
-I am an ISTQB Certified Software Engineer with strong QA methodology, tools and automation skills. Experienced in testing with Java and Selenium and doing API testing using Postman and Proxyman. I have knowledge of SQL for data validation.
+💻 I have hands-on experience in creating automated UI tests using Java, Selenium, and various test frameworks.
+
+🌐 I perform API testing using Postman and Rest Assured, with proficiency in request chaining, environment configuration, and response validation.
+
+🗄️ With my knowledge of SQL, I can efficiently perform data verification and backend checks.
+
+⚙️ I have experience in both manual and automated testing. I am committed to continuous learning and focused on delivering high-quality, reliable software.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +32,7 @@ I am an ISTQB Certified Software Engineer with strong QA methodology, tools and 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>&nbsp;
 </p>
 
-🔭 I’m currently working on: **Automation testing with Java, Selenium, TestNG, Cucumber, Postman, Rest Assured.**
+🔭 Currently focused on automation testing using Java-based tools such as Selenium, TestNG, and Cucumber, as well as API testing and validation using Postman and Rest Assured.
 
 📫 How to reach me: **1yildizmert@gmail.com**
 
